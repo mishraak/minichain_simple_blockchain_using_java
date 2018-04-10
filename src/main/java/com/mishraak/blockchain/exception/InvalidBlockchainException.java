@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 
 /**
  *
- * @author leonardobork
+ * @author mishraak
  */
 @ResponseStatus(value = HttpStatus.BAD_REQUEST)
 public class InvalidBlockchainException extends RuntimeException{

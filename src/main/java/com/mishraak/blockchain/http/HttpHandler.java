@@ -7,7 +7,7 @@ package com.leonardobork.blockchain.http;
 
 /**
  *
- * @author leonardobork
+ * @author mishraak
  */
 public interface HttpHandler {
     
