@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.leonardobork.blockchain.http;
+package com.mishraak.blockchain.http;
 
-import com.leonardobork.blockchain.service.LogService;
+import com.mishraak.blockchain.service.LogService;
 import org.apache.http.HttpResponse;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.client.methods.HttpPut;

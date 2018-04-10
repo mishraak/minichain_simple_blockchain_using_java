@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.leonardobork.blockchain.controller;
+package com.mishraak.blockchain.controller;
 
-import com.leonardobork.blockchain.domain.Block;
-import com.leonardobork.blockchain.service.BlockService;
-import com.leonardobork.blockchain.service.NetworkService;
-import com.leonardobork.blockchain.service.NodeService;
+import com.mishraak.blockchain.domain.Block;
+import com.mishraak.blockchain.service.BlockService;
+import com.mishraak.blockchain.service.NetworkService;
+import com.mishraak.blockchain.service.NodeService;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

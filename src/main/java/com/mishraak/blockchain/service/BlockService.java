@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.leonardobork.blockchain.service;
+package com.mishraak.blockchain.service;
 
 import com.google.common.hash.Hashing;
-import com.leonardobork.blockchain.domain.Block;
-import com.leonardobork.blockchain.exception.InvalidBlockchainException;
+import com.mishraak.blockchain.domain.Block;
+import com.mishraak.blockchain.exception.InvalidBlockchainException;
 import java.nio.charset.StandardCharsets;
 import java.time.LocalDateTime;
 import java.util.ArrayList;

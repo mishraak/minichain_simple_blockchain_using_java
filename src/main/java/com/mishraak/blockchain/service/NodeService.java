@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.leonardobork.blockchain.service;
+package com.mishraak.blockchain.service;
 
-import com.leonardobork.blockchain.domain.Block;
-import com.leonardobork.blockchain.exception.InvalidBlockchainException;
+import com.mishraak.blockchain.domain.Block;
+import com.mishraak.blockchain.exception.InvalidBlockchainException;
 import java.util.ArrayList;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package com.leonardobork.blockchain;
+package com.mishraak.blockchain;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

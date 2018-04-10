@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.leonardobork.blockchain.utility;
+package com.mishraak.blockchain.utility;
 
 import com.google.gson.JsonElement;
 import com.google.gson.JsonPrimitive;
